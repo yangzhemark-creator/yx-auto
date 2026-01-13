@@ -66,4 +66,4 @@ https://your-worker.workers.dev/{UUID}/sub?domain=your-domain.com&epd=yes&epi=ye
 - 这只是一个订阅生成工具，不提供代理服务
 - 生成的节点需要配合你自己的服务器使用
 - UUID必须是标准格式（xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx）
-- VMess参数用的是`mess`不是`vm`，因为`vm`会被某些地方屏蔽
+- VMess参数用的是`mess`不是`vm`，因为`vm`会被某些地方屏蔽.
